@@ -2,7 +2,7 @@
 
 This repository contains the code we developed to evaluate the correlation between the adversarial and out-of-distribution robustness of several LLMs. The experiment details can be found [here](https://drive.google.com/file/d/1BTr7b6THeWSonS3ljpzYTznAFCzEp4gs/view?usp=sharing).
 
-The report paper written as a result of this work can be found [here] (https://arxiv.org/abs/2412.10535v1)
+The report paper written as a result of this work can be found [here](https://arxiv.org/abs/2412.10535v1)
 
 
 ## Project Setup
