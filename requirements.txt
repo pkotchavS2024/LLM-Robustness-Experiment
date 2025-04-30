@@ -1,0 +1,16 @@
+torch                 
+transformers          
+langchain-ollama     
+datasets             
+scikit-learn         
+pandas             
+numpy               
+tqdm               
+json5              
+datetime            
+tiktoken
+protobuf
+blobfile
+promptbench
+lru-dict
+textattack
